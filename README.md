@@ -24,7 +24,6 @@ This Edition Does not perform the Cloud funtion but rather creates an AP and doe
 (Goto the File "WonderSkatesV2 Server Edition" and clone it) 
 ______________________________________________________________________________________________________________________
 #### Libraries Used
- \
 
 LedControl (https://www.arduinolibraries.info/libraries/led-control) \
 binary (Its Already in the Arduino IDE) \
