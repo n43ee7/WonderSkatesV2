@@ -44,3 +44,8 @@ DIN pin of Matrix 1 -> D8 (GPIO15)  \
  \
 CLK Groove 4 Digit Display -> D1 (GPIO05) \
 DIO of Groove 4 Digit Display -> D2 (GPIO04) 
+_______________________________________________________________________________
+#### Compiler Notes:
+
+Program size: 295,796 bytes (used 28% of a 1,044,464 byte maximum) (4.91 secs) \
+Minimum Memory Usage: 28064 bytes (34% of a 81920 byte maximum) 
