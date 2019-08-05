@@ -34,7 +34,8 @@ ESP8266WebServer (https://github.com/esp8266/Arduino/blob/master/libraries/ESP82
 
 ________________________________________________________________________________
 
-Connections:
+#### Connections:
+
 Signal Pin of IR sensor -> D0 (GPIO16) \
  \
 CLK pin of Matrix 1 -> D6 (GPIO12)  \
